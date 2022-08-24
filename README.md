@@ -1,6 +1,18 @@
 # HadUK-Grid_API
 
-**Script to download the weather data from HadUK-Grid**
+**Script to download the weather data from HadUK-Grid using Python3**
+
+**Installation:**
+
+```bash
+pip3 install tqdm cf matplotlib numpy calendar optparse pandas
+```
+or 
+```bash
+conda install tqdm cf matplotlib numpy calendar optparse pandas 
+```
+
+**Usage:**
 
 ```
 ****************************************************************************************************************************
