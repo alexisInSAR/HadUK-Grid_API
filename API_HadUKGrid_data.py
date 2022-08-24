@@ -13,7 +13,6 @@ __credits__ = ["Alexis Hrysiewicz"]
 __license__ = "GPLV3"
 __version__ = "0.5.0"
 __maintainer__ = "Alexis Hrysiewicz"
-__email__ = "alexis.hrysiewicz@ucd.ie"
 __status__ = "Production"
 __date__ = "Aug. 2022"
 
